@@ -26,7 +26,7 @@ const Projects = props => {
                 Built using Wordpress.
               </small>
               <p>
-                This is my website that I had made using wordpress which is of my own digital company.I am the co-founder of it.
+                This is my digital company .I had made this site using Wordpress.
               </p>
             </Project>
             <Project
